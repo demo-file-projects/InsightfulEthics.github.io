@@ -1,2 +1,2 @@
 # InsightfulEthics.github.io
-Website @ atlasone.us
+Published At AtlasONE.us - For Personal And iOS Installers

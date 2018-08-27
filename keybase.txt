@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/atlasinsightone
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://atlasone.us
+  * I am atlasinsightone (https://keybase.io/atlasinsightone) on keybase.
+  * I have a public key ASAvsv6PxD6FPg-NkPFkLp3NMMz8ADP--sdJaTcph_MDXgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202fb2fe8fc43e853e0f8d90f1642e9dcd30ccfc0033fefac74969372987f3035e0a",
+      "host": "keybase.io",
+      "kid": "01202fb2fe8fc43e853e0f8d90f1642e9dcd30ccfc0033fefac74969372987f3035e0a",
+      "uid": "da2dfbc9e169f3206c35a0e8015a4519",
+      "username": "atlasinsightone"
+    },
+    "merkle_root": {
+      "ctime": 1521395176,
+      "hash": "93a62d153ba2dc05f8c8c463db3f118e27c9c49a85ea91349f88db2f3d301075447e00488f66d00756a1b509b072cf3715653ceb643ffe6e8631cadc90b704db",
+      "hash_meta": "a31216a6b766b8aa003ee2447a2cfae7f1c1fd9746b65ed69d54dcbbc86a1a8a",
+      "seqno": 2253042
+    },
+    "service": {
+      "hostname": "atlasone.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521395189,
+  "expire_in": 504576000,
+  "prev": "704b58851aa46c3177df9063b499a79d587e5e383a586a934f3b8ba7088711ea",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL7L+j8Q+hT4PjZDxZC6dzTDM/AAz/vrHSWk3KYfzA14Kp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmZiMmZlOGZjNDNlODUzZTBmOGQ5MGYxNjQyZTlkY2QzMGNjZmMwMDMzZmVmYWM3NDk2OTM3Mjk4N2YzMDM1ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmZiMmZlOGZjNDNlODUzZTBmOGQ5MGYxNjQyZTlkY2QzMGNjZmMwMDMzZmVmYWM3NDk2OTM3Mjk4N2YzMDM1ZTBhIiwidWlkIjoiZGEyZGZiYzllMTY5ZjMyMDZjMzVhMGU4MDE1YTQ1MTkiLCJ1c2VybmFtZSI6ImF0bGFzaW5zaWdodG9uZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMTM5NTE3NiwiaGFzaCI6IjkzYTYyZDE1M2JhMmRjMDVmOGM4YzQ2M2RiM2YxMThlMjdjOWM0OWE4NWVhOTEzNDlmODhkYjJmM2QzMDEwNzU0NDdlMDA0ODhmNjZkMDA3NTZhMWI1MDliMDcyY2YzNzE1NjUzY2ViNjQzZmZlNmU4NjMxY2FkYzkwYjcwNGRiIiwiaGFzaF9tZXRhIjoiYTMxMjE2YTZiNzY2YjhhYTAwM2VlMjQ0N2EyY2ZhZTdmMWMxZmQ5NzQ2YjY1ZWQ2OWQ1NGRjYmJjODZhMWE4YSIsInNlcW5vIjoyMjUzMDQyfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImF0bGFzb25lLnVzIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjEzOTUxODksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzA0YjU4ODUxYWE0NmMzMTc3ZGY5MDYzYjQ5OWE3OWQ1ODdlNWUzODNhNTg2YTkzNGYzYjhiYTcwODg3MTFlYSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBaIgQumhWW+WaZ1mOt6cgCeyMy4WflvUG5gKqcfgv1jf2syWhs1nt6k8dpxQ5LzU4tUgPPrTaRPK0ZqL/Ey9ACoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDG/wexlgEcTTl4PXLf/EUTSAkWjSdgGysRXOqyBZZBaqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/atlasinsightone
+
+==================================================================
